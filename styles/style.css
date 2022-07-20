@@ -252,6 +252,18 @@ span.social-logos {
     column-gap: 50px;
 }
 
+span.social-logos i:nth-child(3) {
+    color: #ec0505;
+}
+
+span.social-logos i:nth-child(2) {
+    color: #0089ff;
+}
+
+span.social-logos i:nth-child(1) {
+    color: #f5368a;
+}
+
 @media only screen and (min-width:668px) and (max-width: 992px) {
     .container {
         width: 100%;
