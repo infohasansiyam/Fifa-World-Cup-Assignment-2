@@ -247,7 +247,8 @@ span.social-logos i {
 
 span.social-logos {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 100px);
+    justify-content: center;
     column-gap: 50px;
 }
 
