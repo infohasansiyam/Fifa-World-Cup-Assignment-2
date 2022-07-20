@@ -158,6 +158,11 @@ a {
     border: 1px solid #e8e8e8;
     border-radius: 10px;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 210px;
 }
 
 button.tranbtn {

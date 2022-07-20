@@ -162,6 +162,10 @@ a {
 
 button.tranbtn {
     padding: 5px 19px;
+    background: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 11px;
 }
 
 .blog-info {
