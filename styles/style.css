@@ -236,6 +236,10 @@ footer {
     text-decoration: none;
 }
 
+.privacy-policy ul li:hover {
+    text-decoration: underline;
+}
+
 .logos {
     margin-top: 50px;
 }
