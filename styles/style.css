@@ -103,6 +103,11 @@ a {
     margin-bottom: 150px;
 }
 
+.blog-info h3 {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
 .blogSection {
     width: 220px;
     background-color: #161616;
@@ -166,6 +171,7 @@ button.tranbtn {
     border: 1px solid gray;
     border-radius: 5px;
     margin-bottom: 11px;
+    cursor: pointer;
 }
 
 .blog-info {
@@ -230,6 +236,20 @@ footer {
     text-decoration: none;
 }
 
+.logos {
+    margin-top: 50px;
+}
+
+span.social-logos i {
+    font-size: 22px;
+    cursor: pointer;
+}
+
+span.social-logos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 50px;
+}
 
 @media only screen and (min-width:668px) and (max-width: 992px) {
     .container {
