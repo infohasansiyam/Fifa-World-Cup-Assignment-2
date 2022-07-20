@@ -255,7 +255,7 @@ span.social-logos {
     display: grid;
     grid-template-columns: repeat(3, 100px);
     justify-content: center;
-    column-gap: 50px;
+    margin-top: 75px;
 }
 
 span.social-logos i:nth-child(3) {
