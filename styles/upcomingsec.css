@@ -44,7 +44,7 @@ header {
 }
 
 .content-img img {
-    width: 108%;
+    width: 105%;
     margin-top: 20px;
     position: relative;
     height: 100%;
@@ -369,8 +369,6 @@ span.social-logos i:nth-child(1) {
         width: 143%;
         margin-left: 28%;
     }
-
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;900&display=swap');
 
     * {
         margin: 0;
