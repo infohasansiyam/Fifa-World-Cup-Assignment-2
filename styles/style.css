@@ -322,6 +322,7 @@ span.social-logos {
 
     .container {
         width: 100%;
+        border-radius: 10px;
     }
 
     .containers {
