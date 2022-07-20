@@ -253,7 +253,6 @@ span.social-logos {
     display: grid;
     grid-template-columns: repeat(3, 100px);
     justify-content: center;
-    margin-top: 75px;
 }
 
 span.social-logos i:nth-child(3) {
