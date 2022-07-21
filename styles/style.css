@@ -324,6 +324,10 @@ span.social-logos i:nth-child(1) {
 /* for mobile or small devices 
 ================================== */
 @media only screen and (max-width:668px) {
+    header {
+        padding: 20px;
+    }
+
     .content p {
         font-weight: 300;
         font-size: 22px;
