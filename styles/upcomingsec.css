@@ -180,6 +180,17 @@ button.tranbtn {
     padding: 20px;
 }
 
+.blog-img img {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.blog-img {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
 .icons img {
     margin-right: 6px;
 }
